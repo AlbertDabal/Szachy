@@ -2,7 +2,7 @@
 Projekt zaliczeniowy "Programowania w C++"  pierwszego semestru na pierwszym roku studiów na kierunku Informatyka.
 
 ## Opis funkcji dla poszczególnych trybów gry:
-### tryb „normalny”
+### „normalny”
 * zawiera podstawowe ruchy figur
 * wyświetla ręcznie zrobioną szachownice oraz poprawnie wyświetla kolory figur w zależności od ich położenia
 * podświetla na różowo miejsce gdzie przeciwnik zrobił ostatni swój ruch 
@@ -18,7 +18,7 @@ Projekt zaliczeniowy "Programowania w C++"  pierwszego semestru na pierwszym rok
 * liczne zabezpieczenia w przypadku błędnych ruchów/danych
 * możliwość zagrania kolejnej tury z nowymi ustawieniami bez potrzeby restartu programu 
 
-### tryb „początkujący”
+### „początkujący”
 * wszystko co zawiera tryb normalny
 * po wybraniu figury podświetla na czerwono wszystkie miejsca gdzie może dana figura się poruszyć (sprawdzając czy zgodnie z zasadami, czy nie ma szachu oraz czy po tym ruchu nie będzie szachu)
 
