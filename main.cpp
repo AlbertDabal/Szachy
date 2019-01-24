@@ -1,11 +1,11 @@
 /*
 #########################################################################################
-#																					                                            	#
-#										                    Wykonał:										                    #
-#									                    Marek Żubrycki									                  #
-#		          Student 1 roku Wyższej Szkoły Informatyki i Zarządzania "Copernicus"      #
-#									                    we Wrocławiu									                    #
-#																						                                            #
+#											#
+#					    Wykonał:					#
+#					Marek Żubrycki					#
+#		 Student 1 roku Wyższej Szkoły Informatyki i Zarządzania "Copernicus"   #
+#					we Wrocławiu					#
+#											#
 #########################################################################################
 */
 
