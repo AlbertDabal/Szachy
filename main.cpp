@@ -59,7 +59,7 @@ int przeksztalcanie(char miejsce[2]) { //przekształca wpisaną literę na liczb
 }
 
 //Globalne tablice
-int ruszad[6] = { 2, 5, 2, 8, 11, 8 }; //podana globalna tablicy potrzebna jest do ruszady, aby sprawdzić czy w przeszłości zrobiliśmy jakiś ruch daną wieżą (kolejność w tablicy jest ważna) lub królem (2 5 2 są po stronie białej, a 8 11 8 są po stronie czarnej)
+int ruszad[6] = { 2, 5, 2, 8, 11, 8 }; //podana globalna tablica potrzebna jest do ruszady, aby sprawdzić czy w przeszłości zrobiliśmy jakiś ruch daną wieżą (kolejność w tablicy jest ważna) lub królem (2 5 2 są po stronie białej, a 8 11 8 są po stronie czarnej)
 char poprzedni_ruch_przeciwnika[2] = { 0, 0 }; //podana globalna tablica przechowuje miejsce na planszy do którego poruszył się przeciwnik (potrzebne przy wyświetlaniu)
 int zbite_figury[32]; //przechwouje wszystkie zbite figury
 
